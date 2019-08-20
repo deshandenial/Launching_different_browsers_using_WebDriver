@@ -9,7 +9,8 @@ import org.openqa.selenium.remote.CapabilityType;
 import org.openqa.selenium.remote.DesiredCapabilities;
 import org.openqa.selenium.safari.SafariDriver;
 
-public class How_to_Handle_Untrusted_Certificate_Selenium_Webdriver {
+public class How_to_Handle_Untrusted_Certificate_Selenium_Webdriver 
+{
 
 	public static void main(String[] args) {
 		
